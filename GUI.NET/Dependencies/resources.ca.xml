@@ -351,7 +351,7 @@
       <Control ID="btnOK">D'acord</Control>
       <Control ID="btnCancel">Cancel·la</Control>
     </Form>
-    <Form ID="frmPreferences" Title="Preferencias">
+    <Form ID="frmPreferences" Title="Preferències">
       <Control ID="tpgGeneral">General</Control>
       <Control ID="lblDisplayLanguage">Idioma de pantalla:</Control>
       <Control ID="chkSingleInstance">Permet només una sola instància de Mesen alhora</Control>
